@@ -37,6 +37,6 @@
 
 ![addcustomer](https://user-images.githubusercontent.com/19667452/36555198-78f3980a-182b-11e8-8d00-e083a670e023.PNG)
 
-### Showing customer info:
+### Showing customer info from session:
 
 ![viewcustomer](https://user-images.githubusercontent.com/19667452/36555246-980cf614-182b-11e8-911d-c469e99cbc61.PNG)
